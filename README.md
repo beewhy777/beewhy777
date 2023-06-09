@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Adebayo
 #### I am an IT Professional
-I made this project to showcase my data analysis, database administration ,programming and general IT skills.
+I made this project to showcase my data analysis, database administration ,programming language and general IT skills.
 
 Skills: SQL/Power BI/Tableau/Excel/Java/Python
 
