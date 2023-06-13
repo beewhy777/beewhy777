@@ -7,5 +7,4 @@ Skills: SQL/Power BI/Tableau/Excel/Java/Python
 - 🔭 I’m currently working on my own company. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/beewhy777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/beewhy777)  
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beewhy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
