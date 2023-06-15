@@ -15,7 +15,7 @@ I'm currently working on some Data Analysis projects.<br>I'm looking to collabor
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beewhy777&theme=tokyonight&hide_border=false)<br/>
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=haycee99)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=haycee99)](https://github.com/beewhy777/github-twitter-card-embed)
 ### ✍️ Development Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
