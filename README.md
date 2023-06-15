@@ -16,6 +16,7 @@ I'm currently working on some Data Analysis projects.<br>I'm looking to collabor
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=haycee99)](https://github.com/beewhy777/github-twitter-card-embed)
+
 ### ✍️ Development Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
