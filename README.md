@@ -22,7 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beewhy777&theme=tokyonight&hide_border=false)<br/>
 
 ### 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=haycee99)](https://github.com/beewhy777/github-twitter-card-embed)
+[(https://gtce.itsvg.in/api?username=haycee99)](https://github.com/beewhy777/github-twitter-card-embed)
 
 
 ### ✍️ Development Quote
