@@ -28,7 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beewhy777&theme=tokyonight&hide_border=false)<br/>
 
 ### ✍️ My Latest tTeet
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=adebayo onajoko)](https://github.com/gazf/github-readme-twitter)
+[github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=adebayo onajoko)](https://github.com/gazf/github-readme-twitter)
 ### ✍️ Development Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
