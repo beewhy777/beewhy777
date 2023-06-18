@@ -7,6 +7,7 @@
 
 - <b>Data Analysis Project1</b>
   - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
+  - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
 
 
 ## 🌐 Socials:
