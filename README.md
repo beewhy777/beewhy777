@@ -2,7 +2,13 @@
 #### I am an IT Professional that specializes in Business Analysis,Data Analysis and Visualization.
 
 # 💫 About Me:
--I'm currently working on some Data Analysis projects.<br>-I'm looking to collaborate on Data Analysis Projects.<br>-I'm looking for help on Machine Learning.<br>-I'm currently learning Machine Learning.<br>-Ask me about MS Excel, SQL and Power BI.<br>-A lover of good music and an ardent supporter of Man Utd. <br>
+- 🔭 I'm currently working on some Data Analysis projects.<br>-
+- 👯 I'm looking to collaborate on Data Analysis Projects.<br>
+- 🤔 I'm looking for help on Machine Learning.<br>
+- 🌱 I'm currently learning Machine Learning.<br>
+- 💬 Ask me about MS Excel, SQL and Power BI.<br>
+- ⚡ A lover of good music and an ardent supporter of Man Utd. <br>
+
 <h2>👨‍💻 Check out my Projects:</h2>
 
 - <b>Data Analysis Projects</b>
@@ -23,7 +29,6 @@
 
 ### 🐦 Latest Tweet
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=haycee99)](https://github.com/gazf/github-readme-twitter)
-
 
 ### ✍️ Development Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
