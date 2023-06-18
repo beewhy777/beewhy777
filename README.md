@@ -28,7 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beewhy777&theme=tokyonight&hide_border=false)<br/>
 
 ### ✍️ My Latest Tweet
-(https://github-readme-twitter.gazf.vercel.app/api?id=haycee99)](https://github.com/beewhy777)
+[(https://github-readme-twitter.gazf.vercel.app/api?id=haycee99)](https://github.com/beewhy777)
 ### ✍️ Development Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
