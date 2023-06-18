@@ -5,10 +5,12 @@
 -I'm currently working on some Data Analysis projects.<br>-I'm looking to collaborate on Data Analysis Projects.<br>-I'm looking for help on Machine Learning.<br>-I'm currently learning Machine Learning.<br>-Ask me about MS Excel, SQL and Power BI.<br>-A lover of good music and an ardent supporter of Man Utd. <br>
 <h2>👨‍💻 Check oot my Projects:</h2>
 
-- <b>Data Analysis Project</b>
+- <b>Data Analysis Projects</b>
   - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
   - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
-
+- <b>Software Development Projects</b>
+  - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
+  - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/born2rule777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adebayo-onajoko2021) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/haycee99) 
