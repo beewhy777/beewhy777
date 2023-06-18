@@ -22,7 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beewhy777&theme=tokyonight&hide_border=false)<br/>
 
 ### 🐦 Latest Tweet
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/beewhy777)
 
 
 ### ✍️ Development Quote
