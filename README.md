@@ -22,12 +22,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beewhy777&theme=tokyonight&hide_border=false)<br/>
 
 ### 🐦 Latest Tweet
-[(https://gtce.itsvg.in/api?username=haycee99)](https://github.com/beewhy777/github-twitter-card-embed)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
 
 
 ### ✍️ Development Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=beewhy777&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=haycee99&icon=0&color=1)](https://visitcount.itsvg.in)
 
