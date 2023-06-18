@@ -3,6 +3,10 @@
 
 # 💫 About Me:
 -I'm currently working on some Data Analysis projects.<br>-I'm looking to collaborate on Data Analysis Projects.<br>-I'm looking for help on Machine Learning.<br>-I'm currently learning Machine Learning.<br>-Ask me about MS Excel, SQL and Power BI.<br>-A lover of good music and an ardent supporter of Man Utd. <br>
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 ## 🌐 Socials:
