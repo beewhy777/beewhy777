@@ -2,8 +2,9 @@
 #### I am an IT Professional that specializes in Business Analysis,Data Analysis and Visualization.
 
 # 💫 About Me:
- - 🔭 I'm currently working on some Data Analysis projects.<br>
- - 👯 I'm looking to collaborate on Data Analysis Projects.<br>
+🔭 I'm currently working on some Data Analysis projects.<br>
+
+👯 I'm looking to collaborate on Data Analysis Projects.<br>
  - 🤔 I'm looking for help on Machine Learning.<br>
  - 🌱 I'm currently learning Machine Learning.<br>
  - 💬 Ask me about MS Excel, SQL and Power BI.<br>
