@@ -3,9 +3,9 @@
 
 # 💫 About Me:
 -I'm currently working on some Data Analysis projects.<br>-I'm looking to collaborate on Data Analysis Projects.<br>-I'm looking for help on Machine Learning.<br>-I'm currently learning Machine Learning.<br>-Ask me about MS Excel, SQL and Power BI.<br>-A lover of good music and an ardent supporter of Man Utd. <br>
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Check oot my Projects:</h2>
 
-- <b>Data Analysis Project1</b>
+- <b>Data Analysis Project</b>
   - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
   - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
 
