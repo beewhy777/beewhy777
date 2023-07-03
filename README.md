@@ -18,7 +18,7 @@
 
 - <b>Data Analysis Projects</b>
   - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
-  - [Data-Analysis_Projects](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Contoso_Analysis)
+  - [Contoso Analysis](https://github.com/beewhy777/Data-Analysis_Projects/Contoso_Analysis)
   - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
 - <b>Software Development Projects</b>
   - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
