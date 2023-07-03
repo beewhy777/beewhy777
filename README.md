@@ -17,8 +17,8 @@
 <h2>👨‍💻 Check out my Projects:</h2>
 
 - <b>Data Analysis Projects</b>
-  - [Dynamo Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
-  - [Contoso Analysis](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Contoso_Analysis)
+  - [Dynamo Consult Analysis](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Dynamo_Analysis)
+  - [Contoso Sales Analysis](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Contoso_Analysis)
   
 - <b>Software Development Projects</b>
   - [Contoso Sales Data Analysis](https://github.com/beewhy777/Data_Analysis-Project1)
