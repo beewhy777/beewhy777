@@ -20,8 +20,8 @@
   - [Dynamo Consult Analysis](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Dynamo_Analysis)
   - [Contoso Sales Analysis](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Contoso_Analysis)
 - <b>Python Projects</b>
-   - [Multi-Measue Unit Converter](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Dynamo_Analysis)
-  
+   - [Multi-Measue Unit Converter](https://github.com/beewhy777/My_Projects/tree/main/Python%20Project-UnitConverter)
+    
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/born2rule777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adebayo-onajoko2021) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/haycee99) 
