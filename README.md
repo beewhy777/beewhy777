@@ -20,7 +20,7 @@
   - [Dynamo Consult Analysis](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Dynamo_Analysis)
   - [Contoso Sales Analysis](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Contoso_Analysis)
 - <b>Python Projects</b>
-   - [Multi-Measue Unit Converter](https://github.com/beewhy777/My_Projects/tree/main/Python%20Project-UnitConverter)
+   - [Multi-Measure Unit Converter](https://github.com/beewhy777/My_Projects/tree/main/Python%20Project-UnitConverter)
     
   
 ## 🌐 Socials:
