@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Adebayo
-#### I am an IT Professional that specializes in Business Analysis,Data Analysis and Visualization.
+ I am an IT Professional that specializes in Business Analysis,Data Analysis and Visualization.
 
 # 💫 About Me:
 🔭 I'm currently working on some Data Analysis projects.<br>
