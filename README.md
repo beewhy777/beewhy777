@@ -20,6 +20,7 @@
   - [Dynamo Consult Analysis](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Dynamo_Analysis)
   - [Contoso Sales Analysis](https://github.com/beewhy777/Data-Analysis_Projects/tree/main/Contoso_Analysis)
 - <b>Python Projects</b>
+   - [Car Rental App](https://github.com/beewhy777/Car-Rental-App)
    - [Multi-Measure Unit Converter]( https://github.com/beewhy777/Python-Projects/tree/main/Python%20Project-UnitConverter)
    - [Property Price Estimator](https://github.com/beewhy777/Python-Projects/tree/main/PropertyPriceEstimator)
    
