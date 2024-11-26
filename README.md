@@ -34,7 +34,6 @@
 
 ### ✍️ Food for the mind
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-![](https://github.com/AtaGowani/daily-motivation/blob/master/src/data/quotes.json)
-![](https://zenquotes.io/)
+
 
 
